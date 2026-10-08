@@ -1,5 +1,5 @@
 # DSLR - Data Science × Logistic Regression
-> **Harry Potter and the Data Scientist** — 用純手工打造的邏輯回歸重現魔法分類帽！
+> **Harry Potter and the Data Scientist** — 編寫霍格華茲的分類帽！
 
 ---
 
